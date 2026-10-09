@@ -35,7 +35,7 @@ class Estudiante{
 
 public class Main {
     public static void main(String[] args) {
-}
+
     Estudiante e = new Estudiante("Juan",23,4.5);
     System.out.println();
-        }}
+        }}}
