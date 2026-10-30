@@ -17,6 +17,6 @@ void main() {
     Gerente g = new Gerente();
     g.nombre = "rich";
     g.salario = 200;
-    g.departamento = "cucuta";
+    g.departamento = "cauca";
     g.mostrarInformacion();
 }
