@@ -1,3 +1,4 @@
+package A;
 public class vehiculo {
     protected String tipo;
     protected String marca;
